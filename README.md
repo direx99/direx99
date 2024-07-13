@@ -6,9 +6,4 @@
 
 ## I'm a Student, Developer, and Traveler!!
 
-- 🔭 Check out my recent projects in Swift & Reactnative
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more deep about swift
-
 
